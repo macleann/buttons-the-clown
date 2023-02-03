@@ -1,0 +1,103 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "parties": [
+    {
+      "id": 1,
+      "parentName": "Bev",
+      "childName": "Billy",
+      "amount": 25,
+      "address": "123 ABC St",
+      "resDate": "2023-09-13",
+      "duration": 4
+    },
+    {
+      "parentName": "Marvin",
+      "childName": "Mandy",
+      "amount": "21",
+      "address": "456 XYZ Rd",
+      "resDate": "2023-02-01",
+      "duration": "5",
+      "id": 2
+    },
+    {
+      "parentName": "Morticia",
+      "childName": "Wednesday",
+      "amount": "7",
+      "address": "666 Black House Ave",
+      "resDate": "2023-10-31",
+      "duration": "6",
+      "id": 3
+    },
+    {
+      "parentName": "Kevin",
+      "childName": "Lil Kevv",
+      "amount": "25",
+      "address": "313 Beverly Hills Blvd",
+      "resDate": "2023-03-22",
+      "duration": "5",
+      "id": 4
+    },
+    {
+      "parentName": "Perry Oser",
+      "childName": "Lewis Oser",
+      "amount": "1",
+      "address": "1 Lonely Pk",
+      "resDate": "2023-03-21",
+      "duration": "5",
+      "id": 5
+    },
+    {
+      "parentName": "Blorg",
+      "childName": "Blurg",
+      "amount": "54",
+      "address": "321 Krombopulon Glarg",
+      "resDate": "2023-02-13",
+      "duration": "5",
+      "id": 6
+    },
+    {
+      "parentName": "Past",
+      "childName": "History",
+      "amount": "22",
+      "address": "789 This Is Done Dr",
+      "resDate": "2023-01-22",
+      "duration": "3",
+      "id": 7
+    }
+  ],
+  "doneParties": [
+    {
+      "partyId": "2",
+      "clownId": "1",
+      "date_created": "2023-02-01T16:00:58.720Z",
+      "id": 1
+    },
+    {
+      "partyId": "4",
+      "clownId": "2",
+      "date_created": "2023-02-01T16:52:25.978Z",
+      "id": 2
+    },
+    {
+      "partyId": "6",
+      "clownId": "1",
+      "date_created": "2023-02-03T15:50:24.180Z",
+      "id": 3
+    },
+    {
+      "partyId": "7",
+      "clownId": "2",
+      "date_created": "2023-02-03T16:12:38.324Z",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 12px auto;
+}
+
+.label {
+    font-size: 110%;
+}
+
+#bookClown {
+    display: block;
+    margin: 0 auto;
+}
+
+.doneParty {
+    background: lightgreen;
+}
